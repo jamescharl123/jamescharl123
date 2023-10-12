@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jamescharl123
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tahir hussain
+- 👀 I’m interested in Cash
+- 🌱 I’m currently learning about Forex Trading
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me @risky_boii my instagram
 
 <!---
 jamescharl123/jamescharl123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
